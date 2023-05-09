@@ -1,9 +1,10 @@
 # SCENE-TEXT-RECOGNITION
+##Optical Character Recognition
 Finding Text In the Scene Images
-OCR (Optical Character Recognition): In other words, OCR systems transform a two-dimensional image of text, that could contain machine printed or handwritten text from its image representation into machine-readable text. OCR as a process generally consists of several sub-processes to perform as accurately as possible. The subprocesses are:
+In other words, OCR software converts a two-dimensional image of text—which could be handwritten or machine printed—into language that a computer can understand. To accomplish OCR as a procedure as accurately as feasible, it typically consists of multiple sub-processes. The subsequent steps are:
 
-Preprocessing of the Image
-Text Localization
-Character Segmentation
-Character Recognition
-Post Processing
+1.Preprocessing of the Image
+2.Text Localization
+3.Character Segmentation
+4.Character Recognition
+5.Post Processing
