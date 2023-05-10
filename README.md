@@ -44,7 +44,8 @@ FOTS is an end-to-end trainable framework that detects and recognizes all words 
 3. Use "EASY_OCR_EAST.ipynb" to select the EAST or EASY_OCR model and input image to this model.
 4. For FOTS first use "FOTS_Data_Analysis.ipynb" to preprocess the data set
 5. Next use "FOTS_Text_Detection_Modelling.ipynb" for finding text in the image.Finally use "FOTS_End_to_End_Modelling.ipnb" to extract text.  
-Report Link:   
+## Important Links
+Report Link: https://drive.google.com/file/d/1eHwcYX24QPWXkDgfgwVKEw2Qs5F2spEG/view?usp=share_link 
 Youtube Link:https://youtu.be/ThntCvbJrYU  
 Custom Data set:https://drive.google.com/drive/folders/1WPx8VuB0pWuWwILQnr9Y44RzeJ56g0Lk?usp=share_link  
 ## Dependencies
