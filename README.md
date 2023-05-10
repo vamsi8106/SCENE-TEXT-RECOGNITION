@@ -47,7 +47,7 @@ FOTS is an end-to-end trainable framework that detects and recognizes all words 
 Data set Link:  
 Report Link:  
 Youtube Link:
-
+Custom Data set:https://drive.google.com/drive/folders/1WPx8VuB0pWuWwILQnr9Y44RzeJ56g0Lk?usp=share_link
 ## Dependencies
 1.OpenCV  
 2.Numpy  
