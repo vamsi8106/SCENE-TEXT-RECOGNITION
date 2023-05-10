@@ -36,6 +36,7 @@ FOTS is an end-to-end trainable framework that detects and recognizes all words 
 3.RoI Rotate
 4.Text Recognition Branch
 ### OUTPUT OF FOTS METHOD
+![fots_text](https://github.com/vamsi8106/SCENE-TEXT-RECOGNITION/assets/99885183/0f7b4fda-28a9-4630-9dad-4ac76c57930f)
 
 ## Steps to run the project files
 1. Select the Scene text recognition Model as per the required Applications
