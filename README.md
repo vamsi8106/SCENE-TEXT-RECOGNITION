@@ -27,6 +27,8 @@ EAST uses a fully convolutional neural network (FCN) to detect text regions in n
 ## 2.EASY OCR
 Easy OCR is based on deep learning algorithms and pre-trained models that can recognize text in various languages, fonts, and styles.EasyOCR works by first performing image preprocessing to enhance the image quality, such as de-skewing, binarization, and noise reduction.Then, the image is fed into a pre-trained neural network that is capable of recognizing text from the image. The neural network outputs the recognized text along with a confidence score for each character.EasyOCR uses a combination of convolutional neural networks (CNN) and recurrent neural networks (RNN) to recognize text from images.
 ### OUTPUT OF EASY OCR METHOD
+![multi_easy](https://github.com/vamsi8106/SCENE-TEXT-RECOGNITION/assets/99885183/12db4906-f2a9-4f01-bd71-2336dd7ec6c0)
+
 ## 3.FOTS
 FOTS is an end-to-end trainable framework that detects and recognizes all words in a natural scene image simultaneously. The overall architecture of FOTS consists of four parts:
 1.Shared Convolutions
