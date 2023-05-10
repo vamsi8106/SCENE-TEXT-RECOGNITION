@@ -41,8 +41,9 @@ FOTS is an end-to-end trainable framework that detects and recognizes all words 
 ## Steps to run the project files
 1. Select the Scene text recognition Model as per the required Applications
 2. Download the pretrained model weights available online and use them in the code.
-3. Use "CV_PROJECT_2.ipynb" to select the model and run the code by inputting your image.
-## Links
+3. Use "EASY_OCR_EAST.ipynb" to select the EAST or EASY_OCR model and input image to this model.
+4. For FOTS first use "FOTS_Data_Analysis.ipynb" to preprocess the data set
+5. Next use "FOTS_Text_Detection_Modelling.ipynb" for finding text in the image.Finally use "FOTS_End_to_End_Modelling.ipnb" to extract text.
 Data set Link:  
 Report Link:  
 Youtube Link:
