@@ -47,11 +47,11 @@ Report Link:
 Youtube Link:
 
 ## Dependencies
-1.OpenCV
-2.Numpy
-3.Matplotlib
-4.pytesseract
-5.easy ocr
+1.OpenCV  
+2.Numpy  
+3.Matplotlib  
+4.pytesseract  
+5.easy ocr  
 ## References
 - EASY OCR Reference:https://github.com/nicknochnack/EasyOCR.git
 - FOTS Reference:https://towardsdatascience.com/scene-text-detection-and-recognition-using-east-and-tesseract-6f07c249f5de
