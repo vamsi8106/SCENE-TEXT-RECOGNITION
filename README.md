@@ -55,4 +55,5 @@ Youtube Link:
 ## References
 - EASY OCR Reference:https://github.com/nicknochnack/EasyOCR.git
 - FOTS Reference:https://towardsdatascience.com/scene-text-detection-and-recognition-using-east-and-tesseract-6f07c249f5de
+- FOTS:https://github.com/Vijay-Gadepalli/FOTS.git
 - https://github.com/Anugrah-T-Sebastian/Natural-Scene-Text-Recognition.git
