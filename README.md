@@ -30,7 +30,7 @@ Easy OCR is based on deep learning algorithms and pre-trained models that can re
 ![multi_easy](https://github.com/vamsi8106/SCENE-TEXT-RECOGNITION/assets/99885183/12db4906-f2a9-4f01-bd71-2336dd7ec6c0)
 
 ## 3.FOTS
-FOTS is an end-to-end trainable framework that detects and recognizes all words in a natural scene image simultaneously. The overall architecture of FOTS consists of four parts:
+FOTS is an end-to-end trainable framework that detects and recognizes all words in a natural scene image simultaneously. For FOTS we have used ICDAR15 dataset.The overall architecture of FOTS consists of four parts:
 1.Shared Convolutions
 2.Text Detection Branch
 3.RoI Rotate
