@@ -21,11 +21,26 @@ Tesseract is an Apache 2.0-licensed open source text recognition (OCR) engine. F
 
 ## 1.EAST
 EAST uses a fully convolutional neural network (FCN) to detect text regions in natural scene images. The network is designed to predict the score map and the geometry map of the text regions simultaneously.The score map indicates the likelihood of a pixel being part of a text region, while the geometry map provides information about the shape and orientation of the text region.
+### OUTPUT OF EAST METHOD
 ## 2.EASY OCR
-Easy OCR is based on deep learning algorithms and pre-trained models that can recognize text in various languages, fonts, and styles.EasyOCR works by first performing image preprocessing to enhance the image quality, such as de-skewing, binarization, and noise reduction.Then, the image is fed into a pre-trained neural network that is capable of recognizing text from the image. The neural network outputs the recognized text along with a confidence score for each character.EasyOCR uses a combination of convolutional neural networks (CNN) and recurrent neural networks (RNN) to recognize text from images
+Easy OCR is based on deep learning algorithms and pre-trained models that can recognize text in various languages, fonts, and styles.EasyOCR works by first performing image preprocessing to enhance the image quality, such as de-skewing, binarization, and noise reduction.Then, the image is fed into a pre-trained neural network that is capable of recognizing text from the image. The neural network outputs the recognized text along with a confidence score for each character.EasyOCR uses a combination of convolutional neural networks (CNN) and recurrent neural networks (RNN) to recognize text from images.
+### OUTPUT OF EASY OCR METHOD
 ## 3.FOTS
 FOTS is an end-to-end trainable framework that detects and recognizes all words in a natural scene image simultaneously. The overall architecture of FOTS consists of four parts:
 1.Shared Convolutions
 2.Text Detection Branch
 3.RoI Rotate
 4.Text Recognition Branch
+### OUTPUT OF FOTS METHOD
+## Steps to run the project files
+
+## Links
+Report Link:
+Youtube Link:
+
+## Dependencies
+
+## References
+- EASY OCR Reference:https://github.com/nicknochnack/EasyOCR.git
+- FOTS Reference:https://towardsdatascience.com/scene-text-detection-and-recognition-using-east-and-tesseract-6f07c249f5de
+- https://github.com/Anugrah-T-Sebastian/Natural-Scene-Text-Recognition.git
