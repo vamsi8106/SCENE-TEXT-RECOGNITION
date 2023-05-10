@@ -39,6 +39,7 @@ FOTS is an end-to-end trainable framework that detects and recognizes all words 
 ## Steps to run the project files
 
 ## Links
+Data set Link:  
 Report Link:  
 Youtube Link:
 
