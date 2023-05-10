@@ -22,6 +22,8 @@ Tesseract is an Apache 2.0-licensed open source text recognition (OCR) engine. F
 ## 1.EAST
 EAST uses a fully convolutional neural network (FCN) to detect text regions in natural scene images. The network is designed to predict the score map and the geometry map of the text regions simultaneously.The score map indicates the likelihood of a pixel being part of a text region, while the geometry map provides information about the shape and orientation of the text region.
 ### OUTPUT OF EAST METHOD
+![wash_east](https://github.com/vamsi8106/SCENE-TEXT-RECOGNITION/assets/99885183/cda692c6-a498-4551-a3b1-14ccd0edda99)
+
 ## 2.EASY OCR
 Easy OCR is based on deep learning algorithms and pre-trained models that can recognize text in various languages, fonts, and styles.EasyOCR works by first performing image preprocessing to enhance the image quality, such as de-skewing, binarization, and noise reduction.Then, the image is fed into a pre-trained neural network that is capable of recognizing text from the image. The neural network outputs the recognized text along with a confidence score for each character.EasyOCR uses a combination of convolutional neural networks (CNN) and recurrent neural networks (RNN) to recognize text from images.
 ### OUTPUT OF EASY OCR METHOD
