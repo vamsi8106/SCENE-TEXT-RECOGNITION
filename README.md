@@ -36,18 +36,22 @@ FOTS is an end-to-end trainable framework that detects and recognizes all words 
 3.RoI Rotate
 4.Text Recognition Branch
 ### OUTPUT OF FOTS METHOD
+
+## Steps to run the project files
 1. Select the Scene text recognition Model as per the required Applications
 2. Download the pretrained model weights available online and use them in the code.
 3. Use "CV_PROJECT_2.ipynb" to select the model and run the code by inputting your image.
-## Steps to run the project files
-
 ## Links
 Data set Link:  
 Report Link:  
 Youtube Link:
 
 ## Dependencies
-
+1.OpenCV
+2.Numpy
+3.Matplotlib
+4.pytesseract
+5.easy ocr
 ## References
 - EASY OCR Reference:https://github.com/nicknochnack/EasyOCR.git
 - FOTS Reference:https://towardsdatascience.com/scene-text-detection-and-recognition-using-east-and-tesseract-6f07c249f5de
